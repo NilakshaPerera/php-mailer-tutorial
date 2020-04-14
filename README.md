@@ -1,2 +1,2 @@
-# php-mailer-tutorial
+# PHP Mailer Demo
  
